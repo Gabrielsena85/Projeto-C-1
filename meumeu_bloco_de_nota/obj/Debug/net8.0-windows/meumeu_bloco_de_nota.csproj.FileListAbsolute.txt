@@ -1,0 +1,16 @@
+C:\Users\aluno.cad\source\repos\meumeu_bloco_de_nota\meumeu_bloco_de_nota\bin\Debug\net8.0-windows\meumeu_bloco_de_nota.exe
+C:\Users\aluno.cad\source\repos\meumeu_bloco_de_nota\meumeu_bloco_de_nota\bin\Debug\net8.0-windows\meumeu_bloco_de_nota.deps.json
+C:\Users\aluno.cad\source\repos\meumeu_bloco_de_nota\meumeu_bloco_de_nota\bin\Debug\net8.0-windows\meumeu_bloco_de_nota.runtimeconfig.json
+C:\Users\aluno.cad\source\repos\meumeu_bloco_de_nota\meumeu_bloco_de_nota\bin\Debug\net8.0-windows\meumeu_bloco_de_nota.dll
+C:\Users\aluno.cad\source\repos\meumeu_bloco_de_nota\meumeu_bloco_de_nota\bin\Debug\net8.0-windows\meumeu_bloco_de_nota.pdb
+C:\Users\aluno.cad\source\repos\meumeu_bloco_de_nota\meumeu_bloco_de_nota\obj\Debug\net8.0-windows\meumeu_bloco_de_nota.Form1.resources
+C:\Users\aluno.cad\source\repos\meumeu_bloco_de_nota\meumeu_bloco_de_nota\obj\Debug\net8.0-windows\meumeu_bloco_de_nota.csproj.GenerateResource.cache
+C:\Users\aluno.cad\source\repos\meumeu_bloco_de_nota\meumeu_bloco_de_nota\obj\Debug\net8.0-windows\meumeu_bloco_de_nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\source\repos\meumeu_bloco_de_nota\meumeu_bloco_de_nota\obj\Debug\net8.0-windows\meumeu_bloco_de_nota.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\source\repos\meumeu_bloco_de_nota\meumeu_bloco_de_nota\obj\Debug\net8.0-windows\meumeu_bloco_de_nota.AssemblyInfo.cs
+C:\Users\aluno.cad\source\repos\meumeu_bloco_de_nota\meumeu_bloco_de_nota\obj\Debug\net8.0-windows\meumeu_bloco_de_nota.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\source\repos\meumeu_bloco_de_nota\meumeu_bloco_de_nota\obj\Debug\net8.0-windows\meumeu_bloco_de_nota.dll
+C:\Users\aluno.cad\source\repos\meumeu_bloco_de_nota\meumeu_bloco_de_nota\obj\Debug\net8.0-windows\refint\meumeu_bloco_de_nota.dll
+C:\Users\aluno.cad\source\repos\meumeu_bloco_de_nota\meumeu_bloco_de_nota\obj\Debug\net8.0-windows\meumeu_bloco_de_nota.pdb
+C:\Users\aluno.cad\source\repos\meumeu_bloco_de_nota\meumeu_bloco_de_nota\obj\Debug\net8.0-windows\meumeu_bloco_de_nota.genruntimeconfig.cache
+C:\Users\aluno.cad\source\repos\meumeu_bloco_de_nota\meumeu_bloco_de_nota\obj\Debug\net8.0-windows\ref\meumeu_bloco_de_nota.dll
